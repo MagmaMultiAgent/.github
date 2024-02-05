@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100%"  src=".github/profile/logo.png" />
+    <img width="100%"  src="logo.png" />
 </p>
 
 # MagMA - Large Scale Mult-Agent Tooling
