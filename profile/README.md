@@ -10,8 +10,8 @@ The **Lux AI Challenge** is a competition where competitors design agents to tac
 
 Our project contains two repositories:
 
-- **Magma Core**: Contains the core code and implementation
-- **Magma Viz**: Web-based visualization tool for training agents
+- **MagmaCore**: Contains the core code and implementation
+- **MagmaViz**: Web-based visualization tool for training agents
 
 # Core Contributors
 
