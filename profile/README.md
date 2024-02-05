@@ -17,4 +17,4 @@ Our project contains two repositories:
 
 We would like to extend our heartfelt gratitude to [Gulyás László](https://github.com/lesIII) for their invaluable guidance and insightful mentorship throughout the course of this project.
 
-We are also thankful to **Eötvös Lóránd University** for providing the necessary resources and environment that facilitated the development of this project.
+We are also thankful to **Eötvös Loránd University** for providing the necessary resources and environment that facilitated the development of this project.
