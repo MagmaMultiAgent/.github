@@ -2,7 +2,7 @@
     <img width="100%"  src="logo.png"/>
 </p>
 
-# MagMA - Large Scale Mult-Agent Tooling
+# MagMA - Scalable Distributed Reinforcement Learning in Multi-Agent Environments
 
 This repository contains a thesis research exploring **Scalable Multi-Agent RL Solutions**, along with a partial submission and template for the LuxAI competition.
 
